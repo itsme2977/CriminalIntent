@@ -2,5 +2,6 @@
 <resources>
 
     <item type="id" name="viewPager" />
+    <item name="menu_item_show_subtitle" type="id">String</item>
 
 </resources>
